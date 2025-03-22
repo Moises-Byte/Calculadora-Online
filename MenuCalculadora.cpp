@@ -42,7 +42,7 @@ int factorial(int l) {
 int main() {
     int opciones;
     do {
-        cout << "\nCalculadora Online";
+        cout << "\nBienvenido a la Calculadora Online";
         cout << "\n1. Sumar";
         cout << "\n2. Restar";
         cout << "\n3. Multiplicar";
